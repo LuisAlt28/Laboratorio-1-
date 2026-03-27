@@ -31,7 +31,7 @@ function Menu() {
       </NavLink>
 
       <NavLink to="/clientes" style={linkStyle}>
-        Clientes
+        Clientes X
       </NavLink>
     </nav>
   ); 
